@@ -1,4 +1,4 @@
 # Calories Counter
 
 ## ✍🏻 Description
-This counter was built in functional programming in Platzi.
+This counter was built for the functional programming course of Platzi.
